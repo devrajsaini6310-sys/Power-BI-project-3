@@ -76,7 +76,7 @@ REPOSITORY STRUCTURE :__________________________________
 
 FILES :___________________________________________
 
-D-mart dashboard.md : This Power BI Service file to view Dashboard on Online.
+D-mart dashboard.md : This Power BI Service file to view Reports on Online.
 
 D-mart super store performance dashboard.pbix: This Power BI Desktop file.
 
