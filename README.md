@@ -80,7 +80,7 @@ Reliance dashboard.md : The Power BI Service file to view Reports on Online.
 
 D-mart super store performance dashboard.pbix: Power BI Desktop file.
 
-Reliance_super_store_data.xlsx : The dataset used for the report.
+D-mart_super_store_data.xlsx: This dataset used for the report.
 
 README.md: This file.
 
