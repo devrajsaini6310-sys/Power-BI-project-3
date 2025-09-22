@@ -1,6 +1,6 @@
 PROJECT TITLE :___________________
 
-SALES AND PROFIT PERFORMANCE DASHBOARD FOR RELIANCE SUPER STORE
+D-MART SALES AND PROFIT PERFORMANCE DASHBOARD
 
 PROJECT OBJECTIVE :_________________________
 
@@ -78,7 +78,7 @@ FILES :___________________________________________
 
 Reliance dashboard.md : The Power BI Service file to view Reports on Online.
 
-Reliance super store performance dashboard.pbix: Power BI Desktop file.
+D-mart super store performance dashboard.pbix: Power BI Desktop file.
 
 Reliance_super_store_data.xlsx : The dataset used for the report.
 
